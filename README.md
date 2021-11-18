@@ -12,7 +12,7 @@ Programa encurtador de URL criado a partir de uma REST API construída em Node.j
 
 #### Como utilizar
 
-​	Em http://localhost:5000/shorten, inserir um POST JSON com a chave "originURL" e o valor com o link a ser encurtado como, por exemplo:
+​	Em `http://localhost:5000/shorten`, inserir um POST JSON com a chave "originURL" e o valor com o link a ser encurtado como, por exemplo:
 
 ```json
 {
